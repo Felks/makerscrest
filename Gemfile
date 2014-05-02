@@ -31,6 +31,8 @@ group :doc do
 end
 
 gem 'mongoid', git: 'git://github.com/mongoid/mongoid.git'
+
+gem 'devise'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
